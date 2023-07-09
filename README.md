@@ -8,4 +8,4 @@ Pipeline:
 4) Deployment
 
 Results:
-The model perfomed the best with Decision Tree algorithm.
+The model perfomed the best with Decision Tree algorithm with 91% of accuracy.
